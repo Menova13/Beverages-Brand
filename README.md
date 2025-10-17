@@ -10,7 +10,7 @@ This is a report anyalsis of beverages brand sales.
 + profit by margin report
 + sales
 ~~~
-
+Soft 
 > This is a point of sales report
 >
 -Total revenue by state
