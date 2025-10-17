@@ -20,3 +20,11 @@ This is a report anyalsis of beverages brand sales.
 -Total expenses
 -Price per units
 -Profit margins
+
+
+## Power BI visualization
+
+
+
+
+
