@@ -27,4 +27,5 @@ This is a report anyalsis of beverages brand sales.
 
 
 
+<img width="650" height="439" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/b025b01d-ffc2-4810-a14a-ae08e2974348" />
 
